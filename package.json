@@ -1,0 +1,24 @@
+{
+  "name": "node_beginner",
+  "version": "0.1.0",
+  "description": "node beginner book",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timcmiller/Node_Beginner.git"
+  },
+  "author": "Tim Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timcmiller/Node_Beginner/issues"
+  },
+  "homepage": "https://github.com/timcmiller/Node_Beginner#readme"
+}
